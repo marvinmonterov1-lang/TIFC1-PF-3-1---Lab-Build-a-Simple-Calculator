@@ -1,5 +1,5 @@
 
-print("Los suma de los numeros es: ", int(input("Enter a number: ")) + int(input("Enter another number: ")))
+print("Los suma de los numeros es: ", int(input("Enter a number: ")) + int(input("Enter another number: "))) # se le pide al usuario que ingrese dos numeros y se suman y se imprime el resultado
 
 print("Los resta de los numeros es: ", int(input("Enter a number: ")) - int(input("Enter another number: ")))
 
